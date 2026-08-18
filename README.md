@@ -15,3 +15,13 @@ I will be the first to admit that this implementation is impractical, but call i
 Or something like that.
 
 Portions of this project were developed with the help of generative AI. This is just a casual project for my Minecraft server, Taeko & Co., inspired by my home, the Swiss Alps :)
+
+## Attribution
+
+This project is based on Terrain Diffusion by xandergos.
+The original implementation is available [here](https://github.com/xandergos/terrain-diffusion).
+
+Substantial modifications and additional components have been made for this
+project. See the repository history for subsequent changes.
+
+Based on upstream commit: b39ac3c, from July 21, 2026.
