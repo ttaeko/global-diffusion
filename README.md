@@ -9,7 +9,7 @@ Its intended use case is Minecraft, for which there will be a Fabric mod once th
 ## Modifications/Functionality
 Fundamentally, Terrain Diffusion and Global Diffusion work the same way. Coarse terrain is gradually refined to higher resolution with the use of learned generators. 
 In the case of Global Diffusion, the initial coarse stage learns to produce land masses at much lower frequencies, think multiple thousands of kilometers. This results
-in truly continental scale generation, instead than the islands of Terrain Diffusion. Additionally, the final scale is higher. Global Diffusion refines the terrain down
+in truly continental scale generation, instead of the islands of Terrain Diffusion. Additionally, the final scale is higher. Global Diffusion refines the terrain down
 to a resolution of 2 meters using inexpensive one-pass U-Nets. The central latent 240m stage and 30m decoder are exactly the same as Terrain Diffusion's.
 
 Global Diffusion also introduces deterministically generated hydrology based off of the 240m physical low frequency channel present in the latent stage.
