@@ -1,0 +1,36 @@
+{
+  "_class_name": "EDMUnet2D",
+  "_diffusers_version": "0.39.0",
+  "attn_resolutions": [
+    16,
+    32
+  ],
+  "block_kwargs": {},
+  "concat_balance": 0.5,
+  "conditional_inputs": [
+    [
+      "float",
+      64,
+      0.35
+    ]
+  ],
+  "disable_out_gain": false,
+  "emb_channels": null,
+  "encode_only": false,
+  "fourier_scale": "pos",
+  "image_size": 256,
+  "in_channels": 6,
+  "layers_per_block": 3,
+  "logvar_channels": 128,
+  "midblock_attention": true,
+  "model_channel_mults": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "model_channels": 96,
+  "n_logvar": 1,
+  "noise_emb_dims": null,
+  "out_channels": 6
+}

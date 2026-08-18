@@ -1,0 +1,28 @@
+{
+  "_class_name": "EDMUnet2D",
+  "_diffusers_version": "0.30.3",
+  "_name_or_path": "checkpoints/models/consistency_decoder-64x3",
+  "attn_resolutions": [],
+  "block_kwargs": null,
+  "concat_balance": 0.5,
+  "conditional_inputs": [],
+  "disable_out_gain": false,
+  "emb_channels": null,
+  "encode_only": false,
+  "fourier_scale": "pos",
+  "image_size": 512,
+  "in_channels": 5,
+  "layers_per_block": 3,
+  "logvar_channels": 128,
+  "midblock_attention": false,
+  "model_channel_mults": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "model_channels": 64,
+  "n_logvar": 1,
+  "noise_emb_dims": null,
+  "out_channels": 1
+}
