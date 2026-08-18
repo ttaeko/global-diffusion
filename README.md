@@ -1,6 +1,6 @@
 # Global Diffusion
 
-![An alpine setting, ~100km x 50km](https://github.com/ttaeko/global-diffusion/img/mountains.png)
+![An alpine setting, ~100km x 50km](https://github.com/ttaeko/global-diffusion/blob/main/img/mountains.png)
 An alpine settings ~100km x ~50km
 
 This is a heavily modified version of [[Terrain Diffusion]](https://xandergos.github.io/terrain-diffusion/) with an explicit focus on continental scale realism.
