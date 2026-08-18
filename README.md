@@ -1,7 +1,7 @@
 # Global Diffusion
 
 ![An alpine setting, ~100km x 50km](https://github.com/ttaeko/global-diffusion/blob/main/img/mountains.png)
-An alpine settings ~100km x ~50km
+An alpine setting ~100km x ~50km
 
 This is a heavily modified version of [[Terrain Diffusion]](https://xandergos.github.io/terrain-diffusion/) with an explicit focus on continental scale realism.
 Its intended use case is Minecraft, for which there will be a Fabric mod once the behind-the-scenes modifications are fully implemented and promoted.
